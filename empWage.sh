@@ -10,5 +10,5 @@ then
 	echo $salary;
 else
 	salary=0;
-	echo $salary;
+	echo $salary "";
 fi
